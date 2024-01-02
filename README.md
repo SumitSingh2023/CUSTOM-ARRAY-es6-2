@@ -1,0 +1,1 @@
+# CUSTOM-ARRAY-es6-2
